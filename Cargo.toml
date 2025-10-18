@@ -1,5 +1,5 @@
 [package]
-name = "embassy-new"
+name = "pico-flight-rs"
 version = "0.1.0"
 edition = "2024"
 
@@ -33,6 +33,6 @@ debug = 2
 lto = true
 
 [[bin]]
-name = "embassy-new"
+name = "pico-flight-rs"
 test = false
 bench = false
